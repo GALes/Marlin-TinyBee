@@ -4327,7 +4327,7 @@
 /**
  * Native ESP32 board with WiFi or add-on ESP32 WiFi-101 module
  */
-#define WIFISUPPORT         // Marlin embedded WiFi management
+// #define WIFISUPPORT         // Marlin embedded WiFi management
 #define ESP3D_WIFISUPPORT   // ESP3D Library WiFi management (https://github.com/luc-github/ESP3DLib)
 
 /**
